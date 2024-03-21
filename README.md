@@ -1,2 +1,2 @@
 # quarkus_tutorial
-Primeiros contato com Quarkus
+Primeiro contato com Quarkus
